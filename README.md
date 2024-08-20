@@ -12,11 +12,12 @@ My experience in IT support has led me to develop a passion for cybersecurity, a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Detection Rule Creation          | <a href="https://google.com">Detection Lab</a>|
-| Playbook Creation | SOAR EDR Project |
+| Detection Rule Creation          | <a href="https://github.com/N7Cyber/SOAR-EDR-Project/tree/main">SOAR EDR Project</a>|
+| Playbook Creation |<a href="https://github.com/N7Cyber/SOAR-EDR-Project/tree/main">SOAR EDR Project</a>  |
 | VM Deployment        |SOAR EDR Project|
 | Incident Response Planning and Execution      | SOAR EDR Project |
 | Deployment of Vulnerability Scanning Tool | Vulnerability Management Project |
+| Security Hardening | Vulnerability Management Project |
 
 ## Tools
 
@@ -47,5 +48,5 @@ My experience in IT support has led me to develop a passion for cybersecurity, a
 </div>
 
 ## Projects
-- SOAR EDR Project
+- <a href="https://github.com/N7Cyber/SOAR-EDR-Project/tree/main">SOAR EDR Project</a>
 - Tenable Nessus Vulnerability Project
