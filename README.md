@@ -24,6 +24,7 @@ My experience in IT support has led me to develop a passion for cybersecurity, a
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Vultr-0066CC?&style=for-the-badge&logo=Vultr&logoColor=white" />
 </div>
 
 ### Network
